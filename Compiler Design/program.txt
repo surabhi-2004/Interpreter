@@ -1,0 +1,7 @@
+SET x 1
+SET y 10
+WHILE x <= y DO
+  PRINT x
+  ADD x 1
+END
+IF x > y THEN PRINT x
